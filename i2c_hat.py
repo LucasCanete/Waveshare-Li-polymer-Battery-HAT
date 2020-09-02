@@ -9,7 +9,7 @@ data from the Shield over I2C protocol. This code is for analyzing:
 Extra information regarding:
 
 2. Received value of the Temperature corresponds to the ADC Value and must be checked with Datasheet for further information.
-3. Hardware related issue is received as a 1 byte binary value. If any bit is 1 this means an issue according to the bit position.
+3. Hardware related issue is received as a 1 byte binary value. If any bit is 1 this indicates a specific issue depending on the bit's position.
 
 -To the HAT:
 
