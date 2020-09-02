@@ -5,7 +5,7 @@ This code is for analyzing:
 
 1. The voltage of the battery attached to the HAT
 2. The temperature of the built-in NTC of the HAT
-3. Any unwanted harware-related issues received by the IRQ Pin.
+3. Any hardware-related issues received by the IRQ Pin.
 
 Extra information regarding:
 
